@@ -1,5 +1,5 @@
 /***************
- * Project: Example 2
+ * Project: Rect
  * Programmer: Sebastian Richardson
  * Date: 2/26/2024
  ****************/
