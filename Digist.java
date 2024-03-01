@@ -14,7 +14,7 @@ public class Digist {
         int hundreds = (number % 1000 - tens - ones)/ 100;
         System.out.println("The hundreds place is " + number + " is " + hundreds); 
         System.out.println("The tens place is " + number + " is " + tens);
-        System.out.println("The ones place is " + number + " is 389" + ones);
+        System.out.println("The ones place is " + number + " is " + ones);
 
     }
 }
