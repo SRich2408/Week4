@@ -1,8 +1,8 @@
 /**
- * Write a description of class NumberFormatExample here.
+ * It add the "$" "," "." "%" to the numbers.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author (Sebastian R)
+ * @version (3/1/2024)
  */
 import java.text.NumberFormat;
 public class Number
